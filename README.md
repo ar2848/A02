@@ -15,9 +15,9 @@ STEP 1: Download VScode
 
 
 STEP 2: Install VScode (I did it on mac so thats how I will show it)
-5. Open the downloaded file
-6. Drag Visual Studio Code into your Applications folder.
-7. Open it from Applications. If prompted, click Open.
+1. Open the downloaded file
+2. Drag Visual Studio Code into your Applications folder.
+3. Open it from Applications. If prompted, click Open.
 
 
 STEP 3: Install Java
