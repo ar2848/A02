@@ -44,33 +44,34 @@ STEP 6: Configure Git
 
 
 STEP 7: Sign in to Gitihub on VScode
-19. Open VS Code.
-20. Click the Account icon (bottom left). Click Sign in with GitHub.
-21. Log in through your browser. Authorize VS Code.
+1. Open VS Code.
+2. Click the Account icon (bottom left). Click Sign in with GitHub.
+3. Log in through your browser. Authorize VS Code.
 
 
 STEP 8: Create a Repo on Github
-22. Go to https://github.com/
-23. Click the + in the top right. Click New repository.
-24. Enter a repository name (example: A02). Click Create repository.
+1. Go to https://github.com
+2. Click the + in the top right. Click New repository.
+3. Enter a repository name (example: A02). Click Create repository.
 
 
 STEP 9: Connect project to Github
-25. Open your project folder in VS Code. Click Terminal → New Terminal. Type:
+1. Open your project folder in VS Code. Click Terminal → New Terminal. Type:
     git init
     git add .
     git commit -m "Initial commit"
-26. Copy your repository URL from GitHub. Connect it:
+2. Copy your repository URL from GitHub. Connect it:
     git remote add origin https://github.com/yourusername/repositoryname.git
     git branch -M main
     git push -u origin main
 
+
 STEP 10: Making Updates
-27. After editing your files:
+1. After editing your files:
     git add .
     git commit -m "Updated files"
     git push
-28. To download updates from Github you can do a git pull by typing "git pull" into the terminal.
+2. To download updates from Github you can do a git pull by typing "git pull" into the terminal.
 
 
 
