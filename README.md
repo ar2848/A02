@@ -21,26 +21,26 @@ STEP 2: Install VScode (I did it on mac so thats how I will show it)
 
 
 STEP 3: Install Java
-8. To install java you can go to: https://www.oracle.com/java/technologies/downloads/ OR https://adoptium.net/
-9. Download the latest JDK (Java Development Kit). Run the installer and follow the instructions.
-10. Make sure Java is added to your system PATH. You can also verify installation by opening the terminal and typingg java --version. Basically it will tell you what version of git or vscode you have and if you get nothing back then that means you don't have any version of the app.
+1. To install java you can go to: https://www.oracle.com/java/technologies/downloads/ OR https://adoptium.net/
+2. Download the latest JDK (Java Development Kit). Run the installer and follow the instructions.
+3. Make sure Java is added to your system PATH. You can also verify installation by opening the terminal and typingg java --version. Basically it will tell you what version of git or vscode you have and if you get nothing back then that means you don't have any version of the app.
 
 
 STEP 4: Install Java extensions to VScode
-11. Open VS Code.
-12. Click the Extensions icon (left side).
-13. Search for: Extension Pack for Java. Click Install.
+1. Open VS Code.
+2. Click the Extensions icon (left side).
+3. Search for: Extension Pack for Java. Click Install.
 
 
 STEP 5: Download Git/Github
-14. Go to https://github.com/
-15. Click Sign Up. Create your account.
-16. Go to https://git-scm.com/downloads download for your operating system.
-17. Run the installer (default settings are fine). If you want to verify installation go to terminal and type git --version.
+1. Go to https://github.com/
+2. Click Sign Up. Create your account.
+3. Go to https://git-scm.com/downloads download for your operating system.
+4. Run the installer (default settings are fine). If you want to verify installation go to terminal and type git --version.
 
 
-STEP 6: Configure Git
-18. Configure Git (First-Time Setup): In Command Prompt or Terminal: git config --global user.name "Your Name" git config --global user.email "your_email@example.com"
+STEP 6: Configure Git 
+1. Configure Git (First-Time Setup): In Command Prompt or Terminal: git config --global user.name "Your Name" git config --global user.email "your_email@example.com"
 
 
 STEP 7: Sign in to Gitihub on VScode
